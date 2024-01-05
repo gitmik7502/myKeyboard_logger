@@ -1,1 +1,1 @@
-ContentFile(path="keys.txt") & C:/Users/User/AppData/Local/Microsoft/WindowsApps/python3.10.exe "e:/raspberry pi pico/keyboard_controller/main.py" Text I wanna store  Text I wanna store  Text I wanna store 
+ContentFile(path="keys.txt") & C:/Users/User/AppData/Local/Microsoft/WindowsApps/python3.10.exe "e:/raspberry pi pico/keyboard_controller/main.py" Text I wanna store  Text I wanna store  Text I wanna store  Text I wanna store 
